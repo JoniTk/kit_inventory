@@ -121,7 +121,7 @@
                 </a>
             </div>
             <div class="col-md-3">
-                <a href="<?= base_url('customer/addCustomer')?>" class="card p-30">
+                <a href="<?= base_url('customer')?>" class="card p-30">
                     <div class="media">
                         <div class="media-left meida media-middle">
                             <span><i class="fa fa-users f-s-40 color-primary"></i></span>
@@ -147,7 +147,7 @@
                 </a>
             </div>
             <div class="col-md-3">
-                <a href="<?= base_url('supplier/addSupplier')?>" class="card p-30">
+                <a href="<?= base_url('supplier')?>" class="card p-30">
                     <div class="media">
                         <div class="media-left meida media-middle">
                             <span><i class="fa fa-user f-s-40 color-warning"></i></span>
